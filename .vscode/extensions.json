@@ -1,0 +1,15 @@
+{
+	"recommendations": [
+		"alpha272.1tbs-editorconfig-generator",
+		"fudge.auto-using",
+		"ms-dotnettools.csharp",
+		"k--kato.docomment",
+		"vadimcn.vscode-lldb",
+		"csharpier.csharpier-vscode",
+		"leo-labs.dotnet",
+		"kishoreithadi.dotnet-core-essentials",
+		"editorconfig.editorconfig",
+		"jmrog.vscode-nuget-package-manager",
+		"doggy8088.quicktype-refresh"
+	]
+}
