@@ -10,6 +10,6 @@
 		"kishoreithadi.dotnet-core-essentials",
 		"editorconfig.editorconfig",
 		"jmrog.vscode-nuget-package-manager",
-		"doggy8088.quicktype-refresh"
-	]
+		"doggy8088.quicktype-refresh",
+	],
 }
