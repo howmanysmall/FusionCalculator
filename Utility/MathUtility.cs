@@ -12,5 +12,8 @@ namespace FusionCalculator.Utility
 
 			return a;
 		}
+
+		[MethodImpl(MethodImplOptions.AggressiveInlining)]
+		public static double Ldexp(double x, int exp) => x * Math.Pow(2, exp);
 	}
 }
